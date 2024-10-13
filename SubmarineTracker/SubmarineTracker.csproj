@@ -52,6 +52,7 @@
         <PackageReference Include="DalamudPackager" Version="2.1.13" />
         <PackageReference Include="MessagePack" Version="3.0.54-alpha" />
         <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.6" />
+        <PackageReference Include="MySql.Data" Version="9.0.0" />
         <PackageReference Include="supabase-csharp" Version="0.16.1" />
         <Reference Include="FFXIVClientStructs">
             <HintPath>$(DalamudLibPath)FFXIVClientStructs.dll</HintPath>
